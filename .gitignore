@@ -1,2 +1,8 @@
-./tempCodeRunnerFile.py
-./copy_forgery_detection_DCT.docx 
+# Ignore VS Code temp runner file
+tempCodeRunnerFile.py
+
+# Ignore all Word documents
+*.docx
+
+# Ignore all PDF files
+*.pdf
